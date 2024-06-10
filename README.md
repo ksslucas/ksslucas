@@ -6,7 +6,7 @@
 
 
 ## Estou aprendendo
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="90" height="90"/>
 
 ## Contatos:
 <div>
@@ -15,7 +15,7 @@
   
 <div>
 <a href="https://github.com/ksslucas">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=isabellyesp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellyesp&layout=compact&langs_count=7&theme=dracula"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ksslucas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksslucas&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
