@@ -1,21 +1,19 @@
-# Hello World, I'm Gabriel, be very welcome
+<hr>
+<code>System.out.println("Welcome to my github!😆")</code>
+<hr>
 
 
-- 🌱 Estudando desenvolvimento Web python
-- 📫 Como entrar em contato comigo: gabrieellmendez@gmail.com
+[![My Skills](https://skillicons.dev/icons?i=java,spring,aws,mysql,mongodb)](https://skillicons.dev)
 
 
-## Estou aprendendo
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="90" height="90"/>
+Here you'll find some projects focused in the following technologies:
+<p>-Java</p> 
+<p>-Spring Boot (Web, Data JPA, Security)</p>
+<p>-Spring Cloud (Config Server, Discovery, API Gateway, OpenFeign)</p>
+<p>-Relational and Non-Relational Databases (SQL Server, MySQL, MongoDB)</p>
 
-## Contatos:
-<div>
-<a href="https://www.instagram.com/mendeszw0/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href = "mailto:gabrieellmendez@gmail.com.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="in/lucas-gabriel-mendes-leite-1bbbb72a5" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<div>
-  
-<div>
-<a href="https://github.com/ksslucas">
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ksslucas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
 <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksslucas&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
+
+Enjoy :)
 
